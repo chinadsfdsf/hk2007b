@@ -7,7 +7,7 @@ baseURL       = "/"
 
 timeout       = 30000
 
-title         = "https://hk2007b.chindsf.org"
+title         = "https://hk2007b.chinadsf.org"
 theme         = [ "hugo-theme-w3css-basic","dyn-theme-shortcodes" ]
 languageCode  = "en-us"
 #languageCode  = "de-ch"
