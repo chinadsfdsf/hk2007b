@@ -38,7 +38,6 @@ categories:
 {{< mydiv4o link="https://hk2007g.chinadsf.org/"  text="hk2007g  2020年7月的新聞g" bg="lightsteelblue" >}}
 {{< mydiv4o link="https://hk2007h.chinadsf.org/"  text="hk2007h  2020年7月的新聞h" bg="lightsteelblue" >}}
 {{< mydiv4o link="https://hk2007i.chinadsf.org/"  text="hk2007i  2020年7月的新聞i" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2007j.chinadsf.org/"  text="hk2007j  2020年7月的新聞j" bg="lightsteelblue" >}}
 
 {{< mybrline1 color="blue" >}}
 
